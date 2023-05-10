@@ -1,0 +1,6 @@
+.green { background-color: green ; color: whitesmoke; font-family:  'Arial Narrow', Arial, sans-serif; font-weight: 800;font-style: italic;}
+.img.img {  height: auto;
+             width: 700px;}
+.red { background-color: rgb(212, 4, 4); color: rgb(253, 253, 253); font-family: 'Times New Roman', Times, serif; font-weight: bolder;}
+.sexy {  background-color: lawngreen; color: azure;}
+.double { color: rgb(255, 0, 0); background-color: rgb(41, 255, 148); font-weight: bold;font-size: large;font-family: Georgia, 'Times New Roman', Times, serif;}
